@@ -58,5 +58,8 @@
 ###
 
 ## 🎵 Tocando agora no Spotify
-/?theme=dark
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3153u4fzq6fsynvrm2mbod256lli&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3153u4fzq6fsynvrm2mbod256lli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
 </p>
