@@ -56,3 +56,10 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+## 🎵 Tocando agora no Spotify
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  </a>
+</p>
