@@ -7,7 +7,7 @@
 
 ---
 
-<img src="./hx-h-hunter-x-hunter.gif" width="220" alt="Gon e Killua">
+<img src="./hx-h-hunter-x-hunter.gif" width="320" alt="Gon e Killua">
     
 ## 👨‍💻 Sobre mim
 
