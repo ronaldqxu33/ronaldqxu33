@@ -46,7 +46,9 @@
 ## 📫 Entre em contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/[ronald souza](https://www.linkedin.com/in/ronald-souza-420a38251/)" target="_blank">
+  <a href="https://www.linkedin.com/www.linkedin.com/in/
+ronald-souza-420a38251
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ronaldqxu@gmail.com">
