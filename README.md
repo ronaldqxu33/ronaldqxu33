@@ -114,3 +114,11 @@ ronald-souza-420a38251
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3153u4fzq6fsynvrm2mbod256lli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronaldqxu33&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors">
+</p>
+
+<h3 align="center">💚 Thanks for visiting my profile! 👋</h3>
