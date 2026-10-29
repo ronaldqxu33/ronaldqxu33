@@ -57,6 +57,13 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ## 🎵 Tocando agora no Spotify
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3153u4fzq6fsynvrm2mbod256lli&redirect=true">
