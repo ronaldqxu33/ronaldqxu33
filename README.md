@@ -7,6 +7,8 @@
 
 ---
 
+<img src="./hx-h-hunter.gif" width="220" alt="Gon e Killua">
+    
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIP.
