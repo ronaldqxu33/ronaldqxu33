@@ -1,8 +1,64 @@
 ## ronald santos
 
-<br clear="both">
 
-<h3 data-importer="text" align="left">opaaa!!!🤙​ ronald santos</h3>
+<h1 align="center">Olá! Eu sou o Ronald Santos 👋</h1>
+
+<h3 align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas</h3>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIP.
+- 💻 Estudando programação e desenvolvimento de software.
+- 🌐 Tenho interesse em infraestrutura, redes de computadores e desenvolvimento.
+- 📚 Sempre buscando aprender novas tecnologias e desenvolver minhas habilidades.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,pycharm" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Linguagem C
+- Lógica de programação
+- Python
+- Banco de dados SQL
+- Git e GitHub
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Entre em contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/ronald souza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ronaldqxu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"A melhor maneira de aprender é praticando todos os dias."</i>
+</p>
 
 ###
 
